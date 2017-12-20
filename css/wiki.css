@@ -1,14 +1,10 @@
 a {
-	color: #337ab7;
-}
-
-a.new {
-	color: #b73333;
+	color: #76471E;
 }
 
 a:hover,
 a:focus {
-	color: #23527c;
+	color: #5D240E;
 	text-decoration: underline;
 	transition: 0.3s;
 }
